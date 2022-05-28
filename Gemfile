@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 ruby "2.5.1"
 
-gem "sinatra"
+gem "sinatra", ">= 2.0.0"
 gem "sass"
 gem "rack-cache"
 gem "unicorn"
